@@ -1,3 +1,5 @@
+ld2410:
+
 sensor:  
   - platform: ld2410
     light:
