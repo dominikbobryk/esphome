@@ -1,6 +1,7 @@
 sensor:
   - platform: bh1750
     i2c_id: grove_i2c
-    name: "Intensywnosc swiatla"
+    name: "Intensywność światła"
     address: 0x23
     update_interval: 5s
+    
