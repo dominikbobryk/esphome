@@ -5,10 +5,10 @@ sensor:
     temperature:
       name: "Temperatura"
     humidity:
-      name: "Wilgotnosc"
+      name: "Wilgotność"
 
   - platform: bmp280_i2c
     i2c_id: grove_i2c
     address: 0x76
     pressure:
-      name: "Cisnienie"
+      name: "Ciśnienie"
